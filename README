@@ -1,0 +1,1 @@
+This program simulates the following page replacement algorithms: OPT, LRU, FIFO, Random, and Clock. It generates the following workloads : no locality, 80-20, and looping. 
